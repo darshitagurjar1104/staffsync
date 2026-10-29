@@ -1,0 +1,14 @@
+{
+  "name": "staffsync-workspace",
+  "version": "1.0.0",
+  "description": "StaffSync - Modern Human Resource Management System (MERN Stack)",
+  "scripts": {
+    "server": "npm run start --prefix server",
+    "server:dev": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server"
+  },
+  "keywords": ["hrms", "hr-management", "mern", "staffsync"],
+  "author": "StaffSync Team",
+  "license": "ISC"
+}
